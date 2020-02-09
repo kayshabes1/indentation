@@ -1,0 +1,9 @@
+h2.introduction{
+    font-family: cursive;
+}
+p.introduction{
+    font-style: italic;
+}
+img.introduction{
+    box-shadow: azure;
+}

@@ -1,0 +1,18 @@
+.intro {
+    font-style: italic;
+  }
+  .author {
+    color: red;
+  }
+  p.author {
+    font-size: 12px;
+  }
+  .giraffes {
+    font-family: sans-serif;
+  }
+  .author2 {
+      color: brown;
+  }
+  p.author2 {
+    font-style: oblique;
+  }

@@ -1,0 +1,31 @@
+h1{
+    font-family: cursive;
+    font-style: italic;
+
+}
+.sidebar{
+    font-size: small;
+    width: 30%;
+    float: right;
+    border: plum;
+    padding: 20px;
+    background-color: papayawhip;
+}
+.header{
+    font-weight: bold;
+}
+h2{
+    font-style: oblique;
+}
+.hobbies{
+    font-style: italic;
+    font-family: fantasy;
+}
+body{
+    
+    background-image: radial-gradient(papayawhip,plum);
+}
+.sidebar2{
+    float: left;
+    
+}

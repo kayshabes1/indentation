@@ -1,0 +1,24 @@
+.column1{
+    width: 350px;
+    float: right;
+    border: 3px solid pink;
+    padding: 8px;
+    margin: 22px;
+    background-color: salmon;
+}
+.column2{
+    width: 350px;
+    float: right;
+    border: 3px solid pink;
+    padding: 8px;
+    margin: 22px;
+    background-color: palevioletred;
+}
+.column3{
+    width: 350px;
+    float: right;
+    border: 3px solid pink;
+    padding: 8px;
+    margin: 22px;
+    background-color: peachpuff;
+}
